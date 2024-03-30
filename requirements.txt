@@ -21,3 +21,4 @@ referencing==0.34.0
 rpds-py==0.18.0
 Werkzeug==3.0.1
 zipp==3.18.1
+gunicorn==20.1.0
